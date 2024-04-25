@@ -75,4 +75,4 @@ def TextToSpeech(Text):
       else:
             Speak(Text)
 
-TextToSpeech("hi it's jarvis")
+TextToSpeech("say hi nigga")
